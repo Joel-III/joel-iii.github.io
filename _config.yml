@@ -23,7 +23,7 @@ repository               : "joel-iii/joel-iii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Joel"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science graduate, Class of 2025. Specializing in Data Analytics/Science"
