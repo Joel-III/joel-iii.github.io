@@ -9,27 +9,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <style>
-      html, body {
-        height: 100%; /* Ensure html and body take full viewport height */
-        margin: 0;
-      }
-  
-      .site {
-        display: flex;
-        flex-direction: column;
-        min-height: 100vh; /* Ensure the site container takes full viewport height */
-      }
-  
-      main {
-        flex-grow: 1; /* Allows the main content to expand and push the footer down */
-      }
-  
-      footer {
-        flex-shrink: 0; /* Prevents the footer from shrinking */
-      }
-  </style>
   </head>
 
   <body>
@@ -38,13 +17,6 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
 
     {% include scripts.html %}
 
