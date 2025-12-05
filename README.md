@@ -22,8 +22,8 @@ skills in academic projects and personal initiatives. I am now seeking full-time
 
 ## Education
 
-**Bachelor of Science in Computing Science with Mathematics Minor<br> 
-Skill/Capabilities:**
+**Bachelor of Science in Computing Science with Mathematics Minor**
+**Skill/Capabilities:**
 This training program emphasizes the practical aspects of mathematical and statistical
 modelling, data analysis, statistical machine learning algorithms, and modern
 computational methods. This program helps acquire skills in data modelling, data
