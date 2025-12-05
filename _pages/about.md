@@ -15,10 +15,10 @@ skills in academic projects and personal initiatives. I am now seeking full-time
 
 ## Summary of Qualifications
 
+* University of Alberta Computing Science Graduate 
 * Google Data Analytics Professional Certificate (August 31, 2022)
 * AWS Cloud Certified Cloud Practitioner(August, 2025)
-* Fourth Year Computing Science Student at the University of
-Alberta
+
 
 ## Education
 
