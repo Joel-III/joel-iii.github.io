@@ -35,8 +35,8 @@ analytics, programming, and computation, including:
 * Machine Learning
 * Information Retrieval
 
-**Google Data Analytics Professional Certificate (August 31, 2022)
-Certificate Link:** https://coursera.org/share/31dec997ebb7f1809a2825b2bdd91df1
+**Google Data Analytics Professional Certificate (August 31, 2022)**
+[Certificate Link](https://coursera.org/share/31dec997ebb7f1809a2825b2bdd91df1)
 **Course Certificates Completed**
 Prepare Data for Exploration
 Data Analysis with R Programming
