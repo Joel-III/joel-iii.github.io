@@ -1,5 +1,28 @@
 {% include base_path %}
 
+<style>
+/* Ensure footer stays at the bottom */
+.page__footer-follow,
+.page__footer-copyright {
+    clear: both;          /* clears any floated elements above */
+    display: block;
+    width: 100%;
+    position: relative;   /* avoid absolute/fixed positioning issues */
+    margin-top: 20px;     /* optional spacing from content */
+}
+
+/* Optional: style the social icons horizontally */
+.page__footer-follow ul.social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+</style>
+
+
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
   <ul class="social-icons">
