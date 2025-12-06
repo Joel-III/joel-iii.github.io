@@ -1,6 +1,6 @@
 ---
 title: "University Group Software Engineering Project"
-excerpt: "CMPUT 301 group project outline with a link to the GitHub Repo at the end"
+excerpt: "CMPUT 301 group project outline with a link to the GitHub Repo at the end "
 collection: portfolio
 ---
 
