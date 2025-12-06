@@ -46,8 +46,6 @@ This feature allows users to log their mood events comprehensively and manage th
 
 This is the foundation of the app, enabling users to document their moods in a structured and detailed way, which is essential for personal tracking and later analysis
 
-
-  
 2. **MOOD HISTORY ANALYSIS**
    
 This feature empowers users to reflect on and understand their emotional patterns over time by providing tools to analyze their mood history. Key aspects include:
@@ -56,8 +54,6 @@ This feature empowers users to reflect on and understand their emotional pattern
 - **Visualizing** moods on a map when location data is available, offering a geographical perspective on emotional trends.
 
 This analytical capability is crucial for users to gain insights into their mental well-being, identify triggers, and recognize patterns—especially valuable in the high-stress environment of university life.
-
-
 
 3. **SOCIAL SHARING AND INTERACTION**
    
