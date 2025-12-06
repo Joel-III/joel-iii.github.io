@@ -36,7 +36,7 @@ It’s tailored for the university context, where stress and emotional fluctuati
 
 ## Key Features
 
-1. **MOOD EVENT CREATION AND MANAGEMENT**
+1\. **MOOD EVENT CREATION AND MANAGEMENT**
    
 This feature allows users to log their mood events comprehensively and manage them with ease. Users can:
 - **Add new mood events** by specifying their emotional state (e.g., happy, sad, stressed), the reason or trigger for the mood (via text or photograph), the social situation (e.g., alone, with friends), and privacy settings.
@@ -46,7 +46,7 @@ This feature allows users to log their mood events comprehensively and manage th
 
 This is the foundation of the app, enabling users to document their moods in a structured and detailed way, which is essential for personal tracking and later analysis
 
-2. **MOOD HISTORY ANALYSIS**
+2\. **MOOD HISTORY ANALYSIS**
    
 This feature empowers users to reflect on and understand their emotional patterns over time by providing tools to analyze their mood history. Key aspects include:
 - **Viewing** a chronological list of past mood events, sorted by date and time.
@@ -55,7 +55,7 @@ This feature empowers users to reflect on and understand their emotional pattern
 
 This analytical capability is crucial for users to gain insights into their mental well-being, identify triggers, and recognize patterns—especially valuable in the high-stress environment of university life.
 
-3. **SOCIAL SHARING AND INTERACTION**
+3\. **SOCIAL SHARING AND INTERACTION**
    
 This feature fosters a sense of community by allowing users to connect and share their experiences. It includes:
 - **Following** other users and granting permissions to view mood events based on privacy settings.
@@ -63,12 +63,12 @@ This feature fosters a sense of community by allowing users to connect and share
 - **Commenting** on mood events to offer support, empathy, or advice, enhancing social engagement.
 By integrating social elements, the app not only serves as a personal tool but also builds a supportive network, encouraging users to share and learn from each other’s emotional journeys.
 
-4. **MY PERSONAL CONTRIBUTIONS**
+4\. **MY PERSONAL CONTRIBUTIONS**
 
 My primary responsibilities within the codebase centred on implementing and maintaining the MoodHistory feature. This included designing the data structure used to represent individual moods and ensuring that the MoodHistory functionality behaved consistently across all associated views.
 In addition, I led the development of the MoodMap, integrating it into the application and ensuring that user mood data was accurately represented in the map interface.
 
-5. **LINK TO GITHUB REPOSITORY**
+5\. **LINK TO GITHUB REPOSITORY**
 
 [Here is a link to the GitHub Repository](https://github.com/cmput301-w25/project-vibecheck)
 
