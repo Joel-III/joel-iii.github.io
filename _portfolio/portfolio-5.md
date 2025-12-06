@@ -67,25 +67,14 @@ This feature fosters a sense of community by allowing users to connect and share
 - **Commenting** on mood events to offer support, empathy, or advice, enhancing social engagement.
 By integrating social elements, the app not only serves as a personal tool but also builds a supportive network, encouraging users to share and learn from each other’s emotional journeys.
 
-## Setup Instructions
-
-**1. Install Requirements**
-- Install Android Studio and make sure your JDK/SDK versions match the project’s requirements.
-
-**2. Get the Project**
-- Clone or download the project repository to your local system.
-  
-**3. Open & Build**
-- Open the project in Android Studio and let Gradle synchronize automatically.
-  
-**4. Run & Test**
-- Run the app on an emulator or physical device to verify everything works correctly.
-
-4. **My Personal Contributions**
+4. **MY PERSONAL CONTRIBUTIONS**
 
 My primary responsibilities within the codebase centred on implementing and maintaining the MoodHistory feature. This included designing the data structure used to represent individual moods and ensuring that the MoodHistory functionality behaved consistently across all associated views.
 In addition, I led the development of the MoodMap, integrating it into the application and ensuring that user mood data was accurately represented in the map interface.
 
-5. **Link to GitHub Repository**
+5. **LINK TO GITHUB REPOSITORY**
 
 [Here is a link to the GitHub Repository](https://github.com/cmput301-w25/project-vibecheck)
+
+
+
